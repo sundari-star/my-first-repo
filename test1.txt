@@ -4,7 +4,8 @@ update
 update4
 update5
 :wq
-
+i
+hai
 
 
 

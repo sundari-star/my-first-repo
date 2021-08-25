@@ -1,8 +1,0 @@
-
-
-hi
-hello
-welcome
-to git
-tutorial
-stash try
