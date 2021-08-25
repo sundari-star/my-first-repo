@@ -1,2 +1,3 @@
 stash try
+next stash try
 hi,welcome to git tutorial
