@@ -1,1 +1,2 @@
+stash try
 hi,welcome to git tutorial
