@@ -1,1 +1,8 @@
-hi,welcome to git tutorial
+
+
+hi
+hello
+welcome
+to git
+tutorial
+
